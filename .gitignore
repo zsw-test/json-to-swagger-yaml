@@ -15,4 +15,3 @@ tmp/
 __debug_bin
 bigfile.sql
 docs/*.json
-app.json
